@@ -16,6 +16,12 @@ app.get('/chefs', (req ,res) => {
     res.send(chefs)
 })
 
+app.get('/chefs/:id', (req , res) => {
+    const id = req.params.id;
+    const item = chefs.find(p => p.id == id);
+    res.send(item)
+})
+
 
 app.listen(port, () => {
 console.log('Server is running on' , port);
