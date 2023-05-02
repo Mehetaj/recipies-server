@@ -10,24 +10,155 @@
         "recipes": [
           {
             "name": "Grilled Salmon with Lemon and Herb Butter",
-            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-          },
-          {
-            "name": "Roasted Vegetable Salad with Balsamic Dressing",
-            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
           },
           {
             "name": "Spicy Thai Noodle Soup",
-            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
           },
           {
             "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
           },
           {
             "name": "Lemon and Blueberry Cheesecake",
-            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
           }
+          
         ]
     },
     {
@@ -41,25 +172,157 @@
         "recipes": [
           {
             "name": "Grilled Salmon with Lemon and Herb Butter",
-            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-          },
-          {
-            "name": "Roasted Vegetable Salad with Balsamic Dressing",
-            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
           },
           {
             "name": "Spicy Thai Noodle Soup",
-            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
           },
           {
             "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
           },
           {
             "name": "Lemon and Blueberry Cheesecake",
-            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
           }
+          
         ]
+        
     },
     {
         "name": "Nafis Shahriar",
@@ -72,24 +335,155 @@
         "recipes": [
           {
             "name": "Grilled Salmon with Lemon and Herb Butter",
-            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-          },
-          {
-            "name": "Roasted Vegetable Salad with Balsamic Dressing",
-            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
           },
           {
             "name": "Spicy Thai Noodle Soup",
-            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
           },
           {
             "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
           },
           {
             "name": "Lemon and Blueberry Cheesecake",
-            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
           }
+          
         ]
     },
     {
@@ -103,25 +497,157 @@
         "recipes": [
           {
             "name": "Grilled Salmon with Lemon and Herb Butter",
-            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-          },
-          {
-            "name": "Roasted Vegetable Salad with Balsamic Dressing",
-            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
           },
           {
             "name": "Spicy Thai Noodle Soup",
-            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
           },
           {
             "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
           },
           {
             "name": "Lemon and Blueberry Cheesecake",
-            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
           }
+          
         ]
+        
     },
     {
         "name": "Rakin Absar",
@@ -134,25 +660,157 @@
         "recipes": [
           {
             "name": "Grilled Salmon with Lemon and Herb Butter",
-            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-          },
-          {
-            "name": "Roasted Vegetable Salad with Balsamic Dressing",
-            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
           },
           {
             "name": "Spicy Thai Noodle Soup",
-            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
           },
           {
             "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
           },
           {
             "name": "Lemon and Blueberry Cheesecake",
-            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
           }
+          
         ]
+        
     },
     {
         "name": "Rj kebria",
@@ -163,26 +821,158 @@
         "bio": "Kebria is a culinary expert with over 6 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
         "picture": "https://i.pinimg.com/originals/e8/2e/89/e82e89f87e77ec94d68c9fa5047d058b.png",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://example.com/grilled-salmon.jpg",
+            "description": "This grilled salmon recipe is a perfect combination of juicy salmon and tangy lemon and herb butter. It's quick and easy to make, and the flavors are out of this world!",
+            "servings": 4,
+            "ingredients": [
+              "4 salmon fillets, skin on",
+              "4 tbsp butter, softened",
+              "2 tbsp fresh parsley, chopped",
+              "2 tbsp fresh chives, chopped",
+              "2 cloves garlic, minced",
+              "1 lemon, juiced and zested",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat grill to medium-high heat.",
+              "Season salmon fillets with salt and pepper.",
+              "In a small bowl, mix together butter, parsley, chives, garlic, lemon zest, and salt and pepper to taste.",
+              "Grill salmon fillets, skin side down, for 5-6 minutes, then flip and grill for another 2-3 minutes until cooked through.",
+              "Remove salmon from grill and top with a generous dollop of lemon and herb butter. Serve immediately, garnished with lemon wedges and extra herbs if desired."
+            ]
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://example.com/spicy-thai-noodle-soup.jpg",
+            "description": "This fragrant and spicy soup is packed with tender chicken, rice noodles, and flavorful herbs and spices. It's a perfect meal for chilly days or when you're in the mood for something warming and comforting.",
+            "servings": 4,
+            "ingredients": [
+              "6 oz rice noodles",
+              "1 lb boneless, skinless chicken breast, thinly sliced",
+              "4 cups chicken broth",
+              "1 can coconut milk",
+              "2 tbsp vegetable oil",
+              "3 garlic cloves, minced",
+              "2 tbsp grated ginger",
+              "1 tbsp red curry paste",
+              "1 tbsp fish sauce",
+              "1 tbsp brown sugar",
+              "1/2 tsp salt",
+              "1/2 tsp black pepper",
+              "1 red bell pepper, thinly sliced",
+              "1/2 cup chopped fresh cilantro",
+              "1/2 cup chopped scallions",
+              "1 lime, cut into wedges"
+            ],
+            "instructions": [
+              "Cook the rice noodles according to package instructions. Drain and set aside.",
+              "Heat the vegetable oil in a large pot over medium heat. Add the garlic and ginger and cook for 1 minute, stirring frequently.",
+              "Add the red curry paste and cook for another minute, stirring constantly.",
+              "Add the chicken broth, coconut milk, fish sauce, brown sugar, salt, and black pepper. Stir to combine and bring to a simmer.",
+              "Add the sliced chicken and red bell pepper to the pot and let cook for 5-7 minutes, or until the chicken is cooked through.",
+              "Divide the cooked rice noodles among 4 bowls.",
+              "Ladle the soup over the noodles, dividing the chicken and red bell pepper evenly among the bowls.",
+              "Garnish each bowl with cilantro and scallions, and serve with lime wedges on the side."
+            ]
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://example.com/roasted-vegetable-salad.jpg",
+            "description": "This colorful and flavorful salad features a variety of roasted vegetables, topped with a tangy balsamic dressing. It's a healthy and satisfying meal that's perfect for any season.",
+            "servings": 4,
+            "ingredients": [
+              "1 red bell pepper, chopped",
+              "1 yellow bell pepper, chopped",
+              "1 zucchini, chopped",
+              "1 yellow squash, chopped",
+              "1 red onion, chopped",
+              "1 pint cherry tomatoes",
+              "2 tbsp olive oil",
+              "Salt and pepper to taste",
+              "6 cups mixed greens",
+              "1/4 cup crumbled feta cheese",
+              "1/4 cup sliced almonds",
+              "For the dressing:",
+              "3 tbsp balsamic vinegar",
+              "2 tbsp Dijon mustard",
+              "1 clove garlic, minced",
+              "1/4 cup olive oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Preheat oven to 425°F.",
+              "In a large bowl, toss together chopped bell peppers, zucchini, yellow squash, and red onion with olive oil and salt and pepper to taste. Spread mixture evenly onto a baking sheet and roast in preheated oven for 25-30 minutes, stirring once halfway through, until vegetables are tender and lightly browned.",
+              "While the vegetables are roasting, make the dressing. In a small bowl, whisk together balsamic vinegar, Dijon mustard, garlic, olive oil, salt, and pepper until smooth and well combined.",
+              "Once the vegetables are done roasting, remove from oven and let cool slightly.",
+              "In a large bowl, toss together mixed greens, roasted vegetables, crumbled feta cheese, and sliced almonds. Drizzle with balsamic dressing and toss to coat. Serve immediately."
+            ]
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://example.com/mushroom-risotto.jpg",
+            "description": "This creamy and flavorful risotto is made with earthy mushrooms, nutty Parmesan cheese, and aromatic truffle oil. It's a perfect comfort food for any occasion.",
+            "servings": 4,
+            "ingredients": [
+              "6 cups chicken or vegetable broth",
+              "2 tbsp olive oil",
+              "1/2 cup chopped onion",
+              "1 lb mixed mushrooms, sliced",
+              "2 cups Arborio rice",
+              "1/2 cup dry white wine",
+              "1/2 cup grated Parmesan cheese",
+              "2 tbsp butter",
+              "1 tbsp truffle oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Heat the broth in a medium saucepan and keep it warm over low heat.",
+              "Heat the olive oil in a large pot over medium heat. Add the chopped onion and sauté for 2-3 minutes, or until softened.",
+              "Add the sliced mushrooms and cook for another 5-7 minutes, or until they release their moisture and are lightly browned.",
+              "Add the Arborio rice to the pot and stir to coat with the mushroom mixture.",
+              "Add the white wine and cook for 2-3 minutes, or until the wine is absorbed.",
+              "Add a ladleful of warm broth to the pot and stir until the liquid is absorbed. Repeat this process, adding one ladleful of broth at a time, stirring constantly and letting the liquid absorb before adding the next ladleful. This process should take about 20-25 minutes, or until the rice is tender and the mixture is creamy.",
+              "Remove the pot from heat and stir in the grated Parmesan cheese, butter, and truffle oil. Season with salt and pepper to taste.",
+              "Let the risotto rest for a few minutes before serving to allow the flavors to meld together."
+            ]
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://example.com/lemon-blueberry-cheesecake.jpg",
+            "description": "This creamy and tangy cheesecake is bursting with fresh blueberries and lemon flavor. It's a perfect dessert for any occasion.",
+            "servings": 8,
+            "ingredients": [
+              "For the crust:",
+              "1 1/2 cups graham cracker crumbs",
+              "1/4 cup sugar",
+              "1/2 cup melted butter",
+              "",
+              "For the filling:",
+              "4 packages (8 oz each) cream cheese, softened",
+              "1 1/4 cups sugar",
+              "4 eggs",
+              "2 tbsp lemon juice",
+              "1 tsp vanilla extract",
+              "1 cup fresh blueberries",
+              "",
+              "For the topping:",
+              "1/2 cup blueberry preserves",
+              "1 tbsp lemon juice"
+            ],
+            "instructions": [
+              "Preheat the oven to 325°F.",
+              "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture onto the bottom of a 9-inch springform pan. Bake for 10 minutes and let cool.",
+              "In a large mixing bowl, beat the cream cheese and sugar until smooth. Beat in the eggs, lemon juice, and vanilla extract.",
+              "Fold in the blueberries and pour the mixture over the cooled crust.",
+              "Bake for 50-60 minutes or until the center is almost set.",
+              "Let the cheesecake cool for 10 minutes before running a knife around the edge of the pan to loosen the cake. Chill for at least 2 hours before removing the sides of the pan.",
+              "In a small saucepan, combine the blueberry preserves and lemon juice. Cook over low heat, stirring constantly, until the preserves melt and the mixture is smooth.",
+              "Drizzle the topping over the cheesecake and chill for an additional 30 minutes before serving."
+            ]
+          }
+          
+        ]
+        
     }
 ]
