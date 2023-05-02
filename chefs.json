@@ -8,27 +8,27 @@
         "bio": "Rafsan is a culinary expert with over 15 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
         "picture": "https://th.bing.com/th/id/OIP.AuWwkNN78_L-CHNFSF15pQHaKl?w=135&h=192&c=7&r=0&o=5&pid=1.7",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://example.com/grilled-salmon.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://example.com/roasted-vegetable-salad.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://example.com/spicy-thai-noodle-soup.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://example.com/mushroom-risotto.jpg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://example.com/lemon-blueberry-cheesecake.jpg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+          }
+        ]
     },
     {
         "name": "Nadir on the go",
@@ -39,27 +39,27 @@
         "bio": "Nadir is a culinary expert with over 8 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
         "picture": "https://th.bing.com/th/id/OIP.-t-5GdTYWzkDPpS-EzN6mAAAAA?w=115&h=192&c=7&r=0&o=5&pid=1.7",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://example.com/grilled-salmon.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://example.com/roasted-vegetable-salad.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://example.com/spicy-thai-noodle-soup.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://example.com/mushroom-risotto.jpg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://example.com/lemon-blueberry-cheesecake.jpg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+          }
+        ]
     },
     {
         "name": "Nafis Shahriar",
@@ -70,27 +70,27 @@
         "bio": "Nafis is a culinary expert with over 5 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
         "picture": "https://th.bing.com/th/id/OIP.H-yNrubCyns6s2IqJD4-nAHaOr?w=115&h=200&c=7&r=0&o=5&pid=1.7",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://example.com/grilled-salmon.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://example.com/roasted-vegetable-salad.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://example.com/spicy-thai-noodle-soup.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://example.com/mushroom-risotto.jpg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://example.com/lemon-blueberry-cheesecake.jpg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+          }
+        ]
     },
     {
         "name": "Tawhid Afridi",
@@ -99,29 +99,29 @@
         "years_of_experience": 3,
         "num_recipes":36,
         "bio": "Afridi is a culinary expert with over 17 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
-        "picture": "https://th.bing.com/th/id/OIP.Jcq0-F-hABhsa9x8zimFuwHaHa?w=197&h=197&c=7&r=0&o=5&pid=1.7",
+        "picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?cs=srgb&dl=pexels-miquel-ferran-gomez-figueroa-3814446.jpg&fm=jpg",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://example.com/grilled-salmon.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://example.com/roasted-vegetable-salad.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://example.com/spicy-thai-noodle-soup.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://example.com/mushroom-risotto.jpg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://example.com/lemon-blueberry-cheesecake.jpg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+          }
+        ]
     },
     {
         "name": "Rakin Absar",
@@ -132,27 +132,27 @@
         "bio": "Rakin is a culinary expert with over 2 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
         "picture": "https://th.bing.com/th/id/OIP.CM1jUh3be6H0kdm4nPtN6QHaKl?w=138&h=197&c=7&r=0&o=5&pid=1.7",
         "recipes": [
-            {
-              "name": "Grilled Salmon with Lemon and Herb Butter",
-              "picture": "https://example.com/grilled-salmon.jpg"
-            },
-            {
-              "name": "Roasted Vegetable Salad with Balsamic Dressing",
-              "picture": "https://example.com/roasted-vegetable-salad.jpg"
-            },
-            {
-              "name": "Spicy Thai Noodle Soup",
-              "picture": "https://example.com/spicy-thai-noodle-soup.jpg"
-            },
-            {
-              "name": "Mushroom Risotto with Parmesan and Truffle Oil",
-              "picture": "https://example.com/mushroom-risotto.jpg"
-            },
-            {
-              "name": "Lemon and Blueberry Cheesecake",
-              "picture": "https://example.com/lemon-blueberry-cheesecake.jpg"
-            }
-          ]
+          {
+            "name": "Grilled Salmon with Lemon and Herb Butter",
+            "picture": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg"
+          },
+          {
+            "name": "Roasted Vegetable Salad with Balsamic Dressing",
+            "picture": "https://thebeachhousekitchen.com/wp-content/uploads/2015/02/img_3426-500x700.jpg"
+          },
+          {
+            "name": "Spicy Thai Noodle Soup",
+            "picture": "https://www.everydayeasyeats.com/wp-content/uploads/2017/01/Thai-Spicy-Noodle-Soup-1.jpg"
+          },
+          {
+            "name": "Mushroom Risotto with Parmesan and Truffle Oil",
+            "picture": "https://www.bakespace.com/images/large/a59dca57cb8fb10e69f086931dc00217.jpeg"
+          },
+          {
+            "name": "Lemon and Blueberry Cheesecake",
+            "picture": "https://img.taste.com.au/-OuYpGnQ/w643-h428-cfill-q90/taste/2016/11/blueberry-and-lemon-baked-cheesecake-90322-1.jpeg"
+          }
+        ]
     },
     {
         "name": "Rj kebria",
@@ -161,7 +161,7 @@
         "years_of_experience": 4,
         "num_recipes": 19,
         "bio": "Kebria is a culinary expert with over 6 years of experience in the food industry. He has worked in some of the finest restaurants in the world and has honed his craft by creating unique and innovative recipes that have won him numerous awards. He is passionate about using only the freshest and highest-quality ingredients to create dishes that not only taste great but are also visually stunning. When he's not in the kitchen, Chef John enjoys spending time with his family and traveling the world to discover new flavors and culinary techniques.",
-        "picture": "https://th.bing.com/th?q=Chef+Outfit+Women&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=BD&setlang=en&adlt=moderate&t=1&mw=247",
+        "picture": "https://i.pinimg.com/originals/e8/2e/89/e82e89f87e77ec94d68c9fa5047d058b.png",
         "recipes": [
             {
               "name": "Grilled Salmon with Lemon and Herb Butter",
